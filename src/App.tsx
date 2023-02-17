@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import './../dist/output.css';
+import './output.css';
 import Header from './components/Header';
 import Content from './components/Emojis';
 import Footer from './components/Footer';
